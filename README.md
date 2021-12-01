@@ -1,11 +1,11 @@
 # BLOC
-[BLOC](https://bloc.money) is a fast, easy to use and private decentralized cryptocurrency.
+[BLOC](http://Theblocmoney.com) is a fast, easy to use and private decentralized cryptocurrency.
 
 Use **BLOC** to send money spacewide, worldwide or locally, immediately and without costly intermediaries using the blockchain technology.
 
 One of our main goal is to provide a cryptocurrency which is safe, easy to use and attractive combined with a powerful ecosystem for users, to benefits advantages from multiple type of industries like never done before.
 
-If this is your first time hearing about BLOC, we recommend starting by visiting the official [BLOC.MONEY](https://bloc.money) website and/or the [BLOC Wiki](https://wiki.bloc.money)
+If this is your first time hearing about BLOC, we recommend starting by visiting the official [BLOC.MONEY](http://TheBlocMoney.com) website and/or the [BLOC Wiki](https://wiki.theblocmoney.com)
 
 [![BLOC](https://wiki.bloc.money/images/BLOC-in-out_blue.gif)](https://bloc.money)
 
@@ -17,7 +17,7 @@ If this is your first time hearing about BLOC, we recommend starting by visiting
 
 ### Installing
 
-We offer binary images of the latest releases here: https://bloc.money/download
+We offer binary images of the latest releases here: https://theblocmoney.com/download
 
 If you would like to compile yourself, read on.
 
@@ -44,7 +44,7 @@ If you are using Clang, you will need Clang 5.0 or higher. You will also need li
 - `sudo pip install cmake`
 - `export CC=gcc-8`
 - `export CXX=g++-8`
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd bloc`
 - `mkdir build`
 - `cd build`
@@ -78,7 +78,7 @@ You need to modify the below command for your version of ubuntu - see https://ap
 - `sudo pip install cmake`
 - `export CC=clang-6.0`
 - `export CXX=clang++-6.0`
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd bloc`
 - `mkdir build`
 - `cd build`
@@ -97,7 +97,7 @@ Ensure you have the dependencies listed above.
 If you want to use clang, ensure you set the environment variables `CC` and `CXX`.
 See the ubuntu instructions for an example.
 
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd bloc`
 - `mkdir build`
 - `cd build`
@@ -121,7 +121,7 @@ The binaries will be in the `src` folder when you are complete.
 - `brew install --force cmake boost llvm gcc@8`
 - `export CC=gcc-8`
 - `export CXX=g++-8`
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd BLOC`
 - `mkdir build`
 - `cd build`
@@ -145,7 +145,7 @@ The binaries will be in the `src` folder when you are complete.
 - `brew install --force cmake boost llvm`
 - `export CC=/usr/local/opt/llvm/bin/clang`
 - `export CXX=/usr/local/opt/llvm/bin/clang++`
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd BLOC`
 - `mkdir build`
 - `cd build`
@@ -195,7 +195,7 @@ Once you have a 64 bit image installed, setup proceeds the same as any Linux dis
 
 ##### Building
 
-- `git clone -b master --single-branch https://github.com/furiousteam/BLOC`
+- `git clone -b master --single-branch https://github.com/TheBlocMoney/BLOC`
 - `cd bloc`
 - `mkdir build`
 - `cd build`
@@ -211,8 +211,6 @@ The binaries will be in the `src` folder when you are complete.
 Cryptonote Developers, Bytecoin Developers, Monero Developers, Forknote Project, TurtleCoin Developers and Community, BLOC Developers & Community
 
 ### Copypasta for license when editing files
-
-Hi BLOC contributor, thanks for forking and sending back Pull Requests. Extensive docs about contributing are in the works or elsewhere. For now this is the bit we need to get into all the files we touch. Please add it to the top of the files, see [src/config/CryptoNoteConfig.h](https://github.com/furiousteam/BLOC/blob/MAIN/src/config/CryptoNoteConfig.h) for an example.
 
 ```
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
